@@ -17,4 +17,4 @@ Whenever I want to code a new project, I always start with python 🐍 (numpy an
 🦁 learning more about our world, especially ethology 🤔 and physiology 💪 of animals <br>
 <br>
 <br>
-"You won't learn, unless you try it" - my quant friends.
+"You won't learn unless you try it" - my quant friends.
