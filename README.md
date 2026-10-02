@@ -10,9 +10,9 @@ My favourite programming language is python 🐍 and I like numpy and pandas �
 
 I have several pinned projectsn but my favourite is my thesis code (coming soon 😉). Very interesting to see how an autocall changes when you change it's ivol.
 
-"You learn by doing it" - my quant friends.
 
 ### Interests
+
 🧑‍🍳 cooking some Portuguese dishes for my girlfriend <br>
 🎾 playing with friends and seeing Carlos Alcaraz win every tournament <br>
 🎨 visiting all the museums I can find, Van Gogh is my favourite artist <br>
@@ -21,3 +21,6 @@ I have several pinned projectsn but my favourite is my thesis code (coming soon 
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+
+💭"You learn by doing it" - my quant friends.
