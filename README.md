@@ -1,19 +1,23 @@
-# Hi, I'm André 👋
+## Hi there! 👋
 
-I'm a finance master's student learning to code by building things I find fun and challenging, from risk models to a language-learning app.
+I'm André, a financial cosultant based in Belgium.
 
-## Projects
+I like to build fun projects, in and out of my field.
 
-**[Portfolio VaR Estimation](https://github.com/andr3mfilip3/portfolio-var-estimation)** · Python<br>
-Estimates Value at Risk and Expected Tail Loss for a two-stock portfolio using five methods: parametric (EWMA), parametric systemic, historical, Cornish-Fisher and stressed historical. It started as an Excel risk model, which I replicated and extended in Python.
+If it sounds challenging and interesting projects, I'll build it and publish it.
 
-**[BecaBecaBahasa](https://github.com/andr3mfilip3/becabecabahasa)** · JavaScript<br>
-An offline-capable web app for learning Portuguese, Indonesian and French through short exercises: multiple choice, typing, listening and speaking. Live at **[becabecabahasa.com](https://becabecabahasa.com/)**.
+My favourite programming language is python 🐍 and I like numpy and pandas 🐼 for my finance related builds.
 
-## Tools
+I have several pinned projectsn but my favourite is my thesis code (coming soon 😉). Very interesting to see how an autocall changes when you change it's ivol.
 
-Python (pandas, NumPy, SciPy, matplotlib) · JavaScript, HTML, CSS · Excel · Git · Cloudflare Pages
+"You learn by doing it" - my quant friends.
 
-## Contact
+### Interests
+🧑‍🍳 cooking some Portuguese dishes for my girlfriend <br>
+🎾 playing with friends and seeing Carlos Alcaraz win every tournament <br>
+🎨 visiting all the museums I can find, Van Gogh is my favourite artist <br>
+🦁 learning more about the animal world, especially ethology 🤔 and physiology 💪 of non-human animals <br>
+
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/your-profile)
