@@ -4,7 +4,7 @@ I'm [André](https://www.linkedin.com/in/andremfilipe), a financial cosultant ba
 
 I like to build fun projects, in and out of my field.
 
-If it sounds challenging and interesting projects, I'll build it and publish it.
+If it sounds challenging and interesting, I'll build it and publish it here.
 
 Whenever I want to code a new project, I always start with python 🐍 (numpy and pandas 🐼).
 
