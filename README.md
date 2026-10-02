@@ -12,9 +12,9 @@ Whenever I want to code a new project, I always start with python 🐍 (numpy an
 ### Interests
 
 🧑‍🍳 cooking some Portuguese dishes for my girlfriend <br>
-🎾 playing with friends and watching Carlos Alcaraz win every tournament <br>
-🎨 visiting all the museums I can find, Le Louvre is still the best one I've seen <br>
-🦁 learning more about our world, especially ethology 🤔 and physiology 💪 of animals <br>
+🎾 playing tennis with friends and watching Carlos Alcaraz win every tournament <br>
+🎨 visiting all the museums I can find, Le Louvre is still my favourite <br>
+🦁 learning more about our world, especially animal ethology 🤔 and physiology 💪 <br>
 <br>
 <br>
 "You won't learn unless you try it" - my quant friends.
