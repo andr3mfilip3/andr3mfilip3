@@ -16,7 +16,7 @@ I have several pinned projects but my favourite is my autocall pricing (coming s
 🧑‍🍳 cooking some Portuguese dishes for my girlfriend <br>
 🎾 playing with friends and seeing Carlos Alcaraz win every tournament <br>
 🎨 visiting all the museums I can find, Van Gogh is my favourite artist <br>
-🦁 learning more about the animal world, especially ethology 🤔 and physiology 💪 of non-human animals <br>
+🦁 learning more about our world, especially ethology 🤔 and physiology 💪 of animals <br>
 <br>
 <br>
 "You won't learn, unless you try it" - my quant friends.
