@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm [André](https://www.linkedin.com/in/andremfilipe), a financial cosultant based in Belgium.
+I'm [André](https://www.linkedin.com/in/andremfilipe), a financial consultant based in Belgium.
 
 I like to build fun projects, in and out of my field.
 
@@ -12,7 +12,7 @@ Whenever I want to code a new project, I always start with python 🐍 (numpy an
 ### Interests
 
 🧑‍🍳 cooking some Portuguese dishes for my girlfriend <br>
-🎾 playing with friends and seeing Carlos Alcaraz win every tournament <br>
+🎾 playing with friends and watching Carlos Alcaraz win every tournament <br>
 🎨 visiting all the museums I can find, Le Louvre is still the best one I've seen <br>
 🦁 learning more about our world, especially ethology 🤔 and physiology 💪 of animals <br>
 <br>
